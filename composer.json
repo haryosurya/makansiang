@@ -3,7 +3,6 @@
     "description": "package gabungan yang terbentuk dari package-package yang sudah ada",
     "require": {
         "php": "^7.2",
-        "another-vendor/package": "1.*",
 
     },
 
