@@ -2,7 +2,6 @@
     "name": "haryosu/ecom",
     "description": "package gabungan yang terbentuk dari package-package yang sudah ada",
     "require": {
-       
-    },
+       }
 
 }
